@@ -11,3 +11,5 @@ try and understand what it is about and use it to develop your own code.
 - lab4: Mouse - 93/100
 - lab5: Video graphics - 90/100
 - proj: Final project - Sliding puzzle in Minix - 18.3/20
+# Final Project
+https://www.youtube.com/watch?v=f1OOgqn6T1w&feature=youtu.be
